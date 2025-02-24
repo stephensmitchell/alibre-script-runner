@@ -7,13 +7,13 @@ A collection of tools and utilities aimed at bringing Alibre Script and Alibre D
 
 ![alt text](SNAG-0845.png)
 
-### Todos
+### Enhancements
 
 - [ ] Autoload scripts from files [Issue](https://github.com/Testbed-for-Alibre-Design/Alibre-Script-Runner/issues/2)
 - [ ] Add dynamic menu creation
 - [ ] Preload Alibre Script addon libraries
 
-#### Known Issues
+### Known Issues
 - Some examples simply don’t work.
 - File and folder paths need to be updated to match your personal file system.
 - These scripts have been updated using AI. Results may vary.
