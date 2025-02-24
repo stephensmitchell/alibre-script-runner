@@ -20,3 +20,4 @@ Contrary to the repository’s name, there is no actual hacking taking place.
 - File and folder paths need to be updated to match your personal file system.
 - These scripts have been updated using AI. Results may vary.
 - Code is included that is not required for the Alibre Script addon, but is required when using the [Alibre Python Shell addon](https://github.com/Testbed-for-Alibre-Design/AlibrePythonShellAddon).
+- The Alibre Design installation location is hard-coded for 'Alibre Design 28.0.2.28126,' which is the installed version on the build machine.
