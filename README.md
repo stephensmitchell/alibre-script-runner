@@ -1,7 +1,5 @@
 A collection of tools and utilities aimed at bringing Alibre Script and Alibre Design automation into 2025.
 
-Contrary to the repository’s name, there is no actual hacking taking place.
-
 ## hacking-alibre-script-addon.py example
 - Launch from the Alibre Script addon
 - After the window (see below) is open you can close the Alibre Script addon scripting interface
