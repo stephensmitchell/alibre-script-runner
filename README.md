@@ -9,7 +9,7 @@ A collection of tools and utilities aimed at bringing Alibre Script and Alibre D
 
 ### Todos
 
-- [ ] Autoload scripts from files
+- [ ] Autoload scripts from files [Issue](https://github.com/Testbed-for-Alibre-Design/Alibre-Script-Runner/issues/2)
 - [ ] Add dynamic menu creation
 - [ ] Preload Alibre Script addon libraries
 
