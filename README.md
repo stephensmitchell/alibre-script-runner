@@ -11,7 +11,7 @@ A collection of tools and utilities aimed at bringing Alibre Script and Alibre D
 
 - [X] Autoload scripts from files [Issue](https://github.com/Testbed-for-Alibre-Design/Alibre-Script-Runner/issues/2)
 - [X] Add dynamic menu creation
-- [X] Preload Alibre Script addon libraries
+- [ ] Preload Alibre Script addon libraries
 - [ ] Add auto-detect Alibre Version tool or registry check to select correct version number.  
 
 ### Known Issues
